@@ -57,6 +57,10 @@ code .
 ``` bash
 git add .
 git commit -m "Descripción corta del cambio realizado"
+``` 
+### PUEDES HACER TODOS LOS COMMITS QUE REQUIERA LA RAMA
+### Para subir la rama:
+``` bash
 git push origin feature/La-rama-que-estan-usando
 ```
 ### Habiendo hecho eso tienen que ir a su GitHub en la web y les aparecerá
