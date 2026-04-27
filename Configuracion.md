@@ -1,4 +1,4 @@
-# CEAMA
+
 ## ⚙️ Requisitos previos
 Antes de comenzar, asegúrate de tener instalado:
 
@@ -14,26 +14,15 @@ Sigue este procedimiento **exactamente en este orden**:
 
 Abre la terminal "**CMD**" y pega esto:
 ```bash
-git clone https://github.com/NevadoLG/CEAMA.git
+git clone https://github.com/angelopohl/ProyectoArquitectura
 ```
 Luego entra a la carpeta:
 ``` bash
-cd CEAMA
+cd ProyectoArquitectura
 ```
-## 2. Crea y activa el entorno
-### Crea el entorno:
-``` bash
-python -m venv venv
+
 ```
-### Activa el entorno:
-``` bash
-venv\Scripts\activate
-```
-### Si lo hicieron bien veran algo tipo:
-``` bash
-(venv) C:\Users\Usuario\CEAMA>
-```
-## 3. Crea tu rama de trabajo
+## 2. Crea tu rama de trabajo
 ### Dependiendo de lo que trabajen creará su propia rama
 ``` bash
 git checkout -b feature/Lo-que-van-a-hacer
